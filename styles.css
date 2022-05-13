@@ -1,0 +1,24 @@
+body {
+    background-color: #dabd3d;
+}
+
+p {
+    font-family: cursive;
+    color: hsl(49, 99%, 36%);
+    font-size: 500%;
+    
+
+    
+
+
+img.alligator {
+    
+    position: relative;
+    margin: 20px;
+}
+
+img.kylie {
+  
+    position: absolute; 
+    
+}
